@@ -7,7 +7,7 @@ module.exports = {
     version: "3.0",
     author: "SiamBhau",
     countDown: 3,
-    role: 0,
+    role: 3,
     description: {
       en: "Send a like to a Free Fire UID using API (Unlimited, No Limit)"
     },
